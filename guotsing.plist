@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="ver 2013.01.09 1.01.02(.02)">
+<plist version="ver 2018.01.09 1.01.02(.02)">
   <dict>
     <key>items</key>
     <array>
@@ -41,7 +41,7 @@
           <key>subtitle</key>
           <string></string>
           <key>title</key>
-          <string>鑫家app</string>
+          <string>智慧国清app</string>
         </dict>
       </dict>
     </array>
